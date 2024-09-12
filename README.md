@@ -1,1 +1,1 @@
-# Favourite-Albums
+# Favourite Albums
