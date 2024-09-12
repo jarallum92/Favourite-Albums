@@ -3,11 +3,11 @@
 List of my favourite albums
 
 - Queens of the Stone Age - Songs for the Deaf
-<img src="[def]" width="200" height="200">
+<img src="[def]" width="100" height="100">
 - Alanis Morrisette - Jagged Little Pill
-![alt text][def2]
+<img src="[def2]" width="100" height="100">
 - Hard Fi - Stars of CCTV
-![alt text][def3]
+<img src="[def3]" width="100" height="100">
 
 
 [def]: mages/Queens_of_the_Stone_Age_-_Songs_for_the_Deaf.pn
