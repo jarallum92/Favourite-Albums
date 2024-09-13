@@ -10,3 +10,5 @@ List of some of my favourite albums:
 
 - Hard Fi - Stars of CCTV
 <img src="Images/Hard-Fi_-_Stars_of_CCTV.png" width="100" height="100">
+
+- Smashing Pumpkins - Siamese Dream
